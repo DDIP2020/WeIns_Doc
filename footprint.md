@@ -229,39 +229,69 @@
 
 ### 07-28
 
-* Ao Yuchen
-  * 上传头像功能
-  * 优化前端的用户权限解析
-  * 优化转发评论后的动态刷新
-* Xu Junhan
-  * 更改写评论接口
-  * 新增返回某个动态接口
-  * 新增修改动态接口
-* Dou Jiawei
-* Fu Yuhan
+Ao Yuchen
+
+* 上传头像功能
+* 优化前端的用户权限解析
+* 优化转发评论后的动态刷新
+
+
+Xu Junhan
+
+* 更改写评论接口
+* 新增返回某个动态接口
+* 新增修改动态接口
+
+
+Dou Jiawei
+
+* jmeter和prometheus环境搭建
+* 完成一份测试文件
+
+Fu Yuhan
 
 ### 07-29
 
-* Ao Yuchen
-  * 评论时间
-  * 动态文本的换行显示
-  * 评论的删除
-* Xu Junhan
-* Dou Jiawei
-* Fu Yuhan
+Ao Yuchen
+
+* 评论时间
+* 动态文本的换行显示
+* 评论的删除
+
+
+Xu Junhan
+
+Dou Jiawei
+
+* grafana完成
+* 测试文件基本完成
+
+Fu Yuhan
 
 ### 07-30
 
-* Ao Yuchen
-  * 回复评论
-  * 多层评论的样式以及发布回复
-* Xu Junhan
-* Dou Jiawei
-* Fu Yuhan
+Ao Yuchen
+
+* 回复评论
+* 多层评论的样式以及发布回复
+
+
+Xu Junhan
+
+Dou Jiawei
+
+* 完成性能测试
+* 着手优化
+
+Fu Yuhan
 
 ### 07-31
 
-* Ao Yuchen
-* Xu Junhan
-* Dou Jiawei
-* Fu Yuhan
+Ao Yuchen
+
+Xu Junhan
+
+Dou Jiawei
+
+
+Fu Yuhan
